@@ -2,6 +2,7 @@
 Visualization of an CTRNN
 
 ![Output Sample](demo_brainVisualizer.gif)
+![Output Sample](data/demo_brainVisualizer.gif)
 
 ### Origin
 This repo is is now integrated in: https://github.com/neuroevolution-ai/NeuroEvolution-CTRNN_new
